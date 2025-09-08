@@ -1,0 +1,144 @@
+{"type": "boot", "message": "worker conectado a RabbitMQ", "ts": "2025-09-08T04:28:51.409176Z"}
+{"type": "boot", "message": "worker conectado a RabbitMQ", "ts": "2025-09-08T04:33:05.649415Z"}
+{"type": "attempt", "corr_id": "f22a3714-2743-45b6-8434-3253f0fbc069", "attempt": 0, "outcome": "ok", "duration_ms": 572.46, "ts": "2025-09-08T04:33:33.029290Z"}
+{"type": "attempt", "corr_id": "581afb29-aa4a-46d5-908b-71136da7ca34", "attempt": 0, "outcome": "ok", "duration_ms": 1567.8, "ts": "2025-09-08T04:33:35.128789Z"}
+{"type": "attempt", "corr_id": "8370bda7-8d79-4737-a017-529abbff5d6c", "attempt": 0, "outcome": "ok", "duration_ms": 882.49, "ts": "2025-09-08T04:33:36.563451Z"}
+{"type": "attempt", "corr_id": "8ccc3034-b49f-4d4f-9569-1a92b06b2338", "attempt": 0, "outcome": "ok", "duration_ms": 1716.69, "ts": "2025-09-08T04:33:38.832712Z"}
+{"type": "attempt", "corr_id": "2d907593-5bba-42cd-8827-0cdab3d433bd", "attempt": 0, "outcome": "ok", "duration_ms": 1892.13, "ts": "2025-09-08T04:33:41.274105Z"}
+{"type": "attempt", "corr_id": "8347a866-8e9a-4ab6-8681-106313bc90af", "attempt": 0, "outcome": "ok", "duration_ms": 961.65, "ts": "2025-09-08T04:33:42.775437Z"}
+{"type": "attempt", "corr_id": "221c4d76-5cb1-431b-bfdc-ddc69cef3aca", "attempt": 0, "outcome": "ok", "duration_ms": 985.51, "ts": "2025-09-08T04:33:44.315038Z"}
+{"type": "attempt", "corr_id": "4043541d-f5d8-4ecf-ad64-2cc1f9b2b358", "attempt": 0, "outcome": "ok", "duration_ms": 1008.46, "ts": "2025-09-08T04:33:45.869362Z"}
+{"type": "attempt", "corr_id": "bf13c5e1-9df7-46e4-8b80-ac0d461aa252", "attempt": 0, "outcome": "ok", "duration_ms": 1525.9, "ts": "2025-09-08T04:33:47.942462Z"}
+{"type": "attempt", "corr_id": "fb780da1-c706-42ca-b313-e3e4f84bebce", "attempt": 0, "outcome": "ok", "duration_ms": 1012.36, "ts": "2025-09-08T04:33:49.510927Z"}
+{"type": "attempt", "corr_id": "d07b895d-139e-4676-b0ea-50d7116f69ef", "attempt": 0, "outcome": "ok", "duration_ms": 1583.07, "ts": "2025-09-08T04:33:51.633788Z"}
+{"type": "attempt", "corr_id": "009d2370-1886-43e9-844e-a6064df16532", "attempt": 0, "outcome": "ok", "duration_ms": 389.25, "ts": "2025-09-08T04:33:52.581832Z"}
+{"type": "attempt", "corr_id": "5458ce78-b980-4f87-ab2e-5d31534ac3af", "attempt": 0, "outcome": "ok", "duration_ms": 1749.53, "ts": "2025-09-08T04:33:54.883707Z"}
+{"type": "attempt", "corr_id": "ccaf890a-7fba-49da-b84f-cf484b5c8b57", "attempt": 0, "outcome": "ok", "duration_ms": 1267.3, "ts": "2025-09-08T04:33:56.703240Z"}
+{"type": "attempt", "corr_id": "b0c0ae7a-db81-4c7c-9816-f686dc186546", "attempt": 0, "outcome": "ok", "duration_ms": 447.17, "ts": "2025-09-08T04:33:57.703243Z"}
+{"type": "attempt", "corr_id": "56ea1d14-dec3-45e9-a405-41640ba1ef85", "attempt": 0, "outcome": "ok", "duration_ms": 1135.4, "ts": "2025-09-08T04:33:59.388048Z"}
+{"type": "attempt", "corr_id": "98288bbc-5ee2-4527-b19a-1dc245e0ce53", "attempt": 0, "outcome": "ok", "duration_ms": 1880.64, "ts": "2025-09-08T04:34:01.810270Z"}
+{"type": "attempt", "corr_id": "f5c7e74f-031b-4053-964f-9c03cbdeaa2e", "attempt": 0, "outcome": "ok", "duration_ms": 1066.29, "ts": "2025-09-08T04:34:03.428015Z"}
+{"type": "attempt", "corr_id": "b519cc30-74e3-4125-97fd-7ede8990af7e", "attempt": 0, "outcome": "ok", "duration_ms": 1478.34, "ts": "2025-09-08T04:34:05.456088Z"}
+{"type": "attempt", "corr_id": "ce4ce130-267a-43f5-8de1-b649fcb37e75", "attempt": 0, "outcome": "ok", "duration_ms": 1874.88, "ts": "2025-09-08T04:34:07.878776Z"}
+{"type": "attempt", "corr_id": "7cafef86-ed7c-4c7e-9ff8-f5e8a296a609", "attempt": 0, "outcome": "ok", "duration_ms": 1575.7, "ts": "2025-09-08T04:34:10.003978Z"}
+{"type": "attempt", "corr_id": "4182184d-b95c-4651-89da-d191bbf67829", "attempt": 0, "outcome": "ok", "duration_ms": 1609.62, "ts": "2025-09-08T04:34:12.162179Z"}
+{"type": "attempt", "corr_id": "240b061f-4e21-4415-9aef-ddb9fdfd5b9c", "attempt": 0, "outcome": "ok", "duration_ms": 1446.79, "ts": "2025-09-08T04:34:14.151142Z"}
+{"type": "attempt", "corr_id": "288ef7ef-ff6f-462f-9991-f79f938c26e7", "attempt": 0, "outcome": "ok", "duration_ms": 1630.75, "ts": "2025-09-08T04:34:16.321165Z"}
+{"type": "attempt", "corr_id": "0423b725-c6d7-413c-a94b-a26208e7805f", "attempt": 0, "outcome": "ok", "duration_ms": 1404.27, "ts": "2025-09-08T04:34:18.262608Z"}
+{"type": "attempt", "corr_id": "16447e58-f14e-4a94-af24-906418ca1583", "attempt": 0, "outcome": "ok", "duration_ms": 1481.47, "ts": "2025-09-08T04:34:20.289297Z"}
+{"type": "attempt", "corr_id": "a0d03fa3-8746-4573-af21-db0b1fdca6ed", "attempt": 0, "outcome": "ok", "duration_ms": 1077.2, "ts": "2025-09-08T04:34:21.917224Z"}
+{"type": "attempt", "corr_id": "f7497bf9-9523-4532-b4a4-054fb413380a", "attempt": 0, "outcome": "ok", "duration_ms": 1114.11, "ts": "2025-09-08T04:34:23.579464Z"}
+{"type": "attempt", "corr_id": "faba97eb-b163-4525-a99e-82aa83340c0b", "attempt": 0, "outcome": "ok", "duration_ms": 625.93, "ts": "2025-09-08T04:34:24.741610Z"}
+{"type": "attempt", "corr_id": "2628eb73-390b-474c-a1e2-f838372db7bb", "attempt": 0, "outcome": "ok", "duration_ms": 1158.59, "ts": "2025-09-08T04:34:26.449604Z"}
+{"type": "attempt", "corr_id": "7cd2b3d4-b51b-42b3-b614-9acade9c64dd", "attempt": 0, "outcome": "ok", "duration_ms": 1280.4, "ts": "2025-09-08T04:34:28.287928Z"}
+{"type": "attempt", "corr_id": "7df7c5d9-a2b6-4f22-a80c-040eca8c5ae1", "attempt": 0, "outcome": "ok", "duration_ms": 1774.57, "ts": "2025-09-08T04:34:30.614020Z"}
+{"type": "attempt", "corr_id": "7bac0211-6ae7-4708-9389-c1877604e268", "attempt": 0, "outcome": "ok", "duration_ms": 1299.11, "ts": "2025-09-08T04:34:32.453244Z"}
+{"type": "attempt", "corr_id": "effdd825-820c-4275-a83e-f8cc20456026", "attempt": 0, "outcome": "ok", "duration_ms": 1265.87, "ts": "2025-09-08T04:34:34.267459Z"}
+{"type": "attempt", "corr_id": "4c8e98a8-d422-4c78-a67d-68b0b6e4290c", "attempt": 0, "outcome": "ok", "duration_ms": 1420.83, "ts": "2025-09-08T04:34:36.244377Z"}
+{"type": "attempt", "corr_id": "ebc2ac95-3054-45ae-96ff-da60b9928db9", "attempt": 0, "outcome": "ok", "duration_ms": 1882.75, "ts": "2025-09-08T04:34:38.680138Z"}
+{"type": "attempt", "corr_id": "a37c6bb4-2901-4dbc-863a-a4bb3a87cdc5", "attempt": 0, "outcome": "ok", "duration_ms": 1141.73, "ts": "2025-09-08T04:34:40.376696Z"}
+{"type": "attempt", "corr_id": "37548d5d-d43a-4842-ad1e-6a113439a9f2", "attempt": 0, "outcome": "ok", "duration_ms": 915.01, "ts": "2025-09-08T04:34:41.829165Z"}
+{"type": "attempt", "corr_id": "bb87fcc2-b066-44c9-bbba-81dbc75a32ea", "attempt": 0, "outcome": "ok", "duration_ms": 1308.2, "ts": "2025-09-08T04:34:43.677923Z"}
+{"type": "attempt", "corr_id": "e1e898a8-2676-4837-91f0-7efed71a82ff", "attempt": 0, "outcome": "ok", "duration_ms": 1575.86, "ts": "2025-09-08T04:34:45.792280Z"}
+{"type": "attempt", "corr_id": "30e8c500-4e26-4fcb-a2cc-2646579aeb36", "attempt": 0, "outcome": "ok", "duration_ms": 1190.95, "ts": "2025-09-08T04:34:47.522771Z"}
+{"type": "attempt", "corr_id": "2881dbe2-12d7-4321-8038-67107bd803c4", "attempt": 0, "outcome": "ok", "duration_ms": 1217.07, "ts": "2025-09-08T04:34:49.295695Z"}
+{"type": "attempt", "corr_id": "54f30469-1a1a-416f-81ee-5ad0811d52cc", "attempt": 0, "outcome": "ok", "duration_ms": 1246.55, "ts": "2025-09-08T04:34:51.090612Z"}
+{"type": "attempt", "corr_id": "d004e0eb-13f7-4c82-8301-54eff0ff5224", "attempt": 0, "outcome": "ok", "duration_ms": 1349.0, "ts": "2025-09-08T04:34:52.988634Z"}
+{"type": "attempt", "corr_id": "9cd6a553-f077-4d38-beaa-9fded383733f", "attempt": 0, "outcome": "ok", "duration_ms": 1260.7, "ts": "2025-09-08T04:34:54.797699Z"}
+{"type": "attempt", "corr_id": "0b38dc76-92dc-4774-9005-90125d464cf4", "attempt": 0, "outcome": "ok", "duration_ms": 890.47, "ts": "2025-09-08T04:34:56.230074Z"}
+{"type": "attempt", "corr_id": "296d3bc9-15df-4ad3-80dc-5b5461742921", "attempt": 0, "outcome": "ok", "duration_ms": 1605.8, "ts": "2025-09-08T04:34:58.376239Z"}
+{"type": "attempt", "corr_id": "b9b5af91-e685-4a07-ae72-d6517f7eb18e", "attempt": 0, "outcome": "ok", "duration_ms": 634.0, "ts": "2025-09-08T04:34:59.550781Z"}
+{"type": "attempt", "corr_id": "f824ac22-41fc-489c-9452-18f7a10fd1f2", "attempt": 0, "outcome": "ok", "duration_ms": 1462.0, "ts": "2025-09-08T04:35:01.556544Z"}
+{"type": "attempt", "corr_id": "c2bf93f8-4eab-4d30-a387-477fd26d8beb", "attempt": 0, "outcome": "upstream_timeout", "ts": "2025-09-08T04:35:04.035525Z"}
+{"type": "attempt", "corr_id": "482860eb-620c-4d8d-92e4-f9f95ba98412", "attempt": 0, "outcome": "ok", "duration_ms": 1330.8, "ts": "2025-09-08T04:35:05.972983Z"}
+{"type": "attempt", "corr_id": "c2bf93f8-4eab-4d30-a387-477fd26d8beb", "attempt": 1, "outcome": "upstream_timeout", "ts": "2025-09-08T04:35:07.982609Z"}
+{"type": "attempt", "corr_id": "9cede1f4-c24b-4144-b3e1-691f8985c7c4", "attempt": 0, "outcome": "ok", "duration_ms": 954.8, "ts": "2025-09-08T04:35:08.938379Z"}
+{"type": "attempt", "corr_id": "46b067bd-e7d0-4fa3-9d0e-8d0be8b66110", "attempt": 0, "outcome": "ok", "duration_ms": 1183.13, "ts": "2025-09-08T04:35:10.269029Z"}
+{"type": "attempt", "corr_id": "c2bf93f8-4eab-4d30-a387-477fd26d8beb", "attempt": 2, "outcome": "ok", "duration_ms": 1572.6, "ts": "2025-09-08T04:35:11.842457Z"}
+{"type": "attempt", "corr_id": "178b252c-1181-48d9-b006-a89c33db3042", "attempt": 0, "outcome": "ok", "duration_ms": 1383.19, "ts": "2025-09-08T04:35:13.226514Z"}
+{"type": "attempt", "corr_id": "a67fe0be-967d-43b6-9a5e-bc80277040a1", "attempt": 0, "outcome": "ok", "duration_ms": 1419.63, "ts": "2025-09-08T04:35:14.764621Z"}
+{"type": "attempt", "corr_id": "37aa5770-f12c-4f24-bb9f-1193b0ea93e3", "attempt": 0, "outcome": "ok", "duration_ms": 1653.73, "ts": "2025-09-08T04:35:16.970395Z"}
+{"type": "attempt", "corr_id": "7f236ed6-122a-4fc1-8158-74973370e108", "attempt": 0, "outcome": "ok", "duration_ms": 1237.49, "ts": "2025-09-08T04:35:18.749820Z"}
+{"type": "attempt", "corr_id": "bc3b531d-a589-4f46-a18e-97bb9b7c02af", "attempt": 0, "outcome": "ok", "duration_ms": 1118.89, "ts": "2025-09-08T04:35:20.411858Z"}
+{"type": "attempt", "corr_id": "3864d860-4171-4ddd-870c-035afbcace8a", "attempt": 0, "outcome": "ok", "duration_ms": 927.24, "ts": "2025-09-08T04:35:21.881530Z"}
+{"type": "attempt", "corr_id": "d534cbe1-a1f3-4666-8eea-8194393ddd57", "attempt": 0, "outcome": "upstream_timeout", "ts": "2025-09-08T04:35:24.398292Z"}
+{"type": "attempt", "corr_id": "e6de9b13-3eaa-41aa-aa4a-ad4e44a6af9b", "attempt": 0, "outcome": "ok", "duration_ms": 1631.05, "ts": "2025-09-08T04:35:26.601731Z"}
+{"type": "attempt", "corr_id": "d534cbe1-a1f3-4666-8eea-8194393ddd57", "attempt": 1, "outcome": "ok", "duration_ms": 1274.22, "ts": "2025-09-08T04:35:27.878107Z"}
+{"type": "attempt", "corr_id": "dea97a5f-2169-43f8-bcdf-6642859db2cd", "attempt": 0, "outcome": "upstream_timeout", "ts": "2025-09-08T04:35:29.866967Z"}
+{"type": "attempt", "corr_id": "48c2a023-f70b-45bb-8a7f-9e86b4e71c35", "attempt": 0, "outcome": "ok", "duration_ms": 1823.19, "ts": "2025-09-08T04:35:31.691718Z"}
+{"type": "attempt", "corr_id": "dea97a5f-2169-43f8-bcdf-6642859db2cd", "attempt": 1, "outcome": "ok", "duration_ms": 1230.16, "ts": "2025-09-08T04:35:33.100476Z"}
+{"type": "attempt", "corr_id": "684cb557-442f-4a8c-9336-03d6c36befbd", "attempt": 0, "outcome": "ok", "duration_ms": 843.77, "ts": "2025-09-08T04:35:33.945534Z"}
+{"type": "attempt", "corr_id": "cde84929-e0e8-4fd0-a608-342a66ca1a25", "attempt": 0, "outcome": "ok", "duration_ms": 1102.74, "ts": "2025-09-08T04:35:35.592974Z"}
+{"type": "attempt", "corr_id": "5ca82152-c20f-4d72-8b10-4ff7d19482e9", "attempt": 0, "outcome": "ok", "duration_ms": 413.52, "ts": "2025-09-08T04:35:36.562684Z"}
+{"type": "attempt", "corr_id": "d3524a2e-3275-41c3-a64e-a890f9451c7e", "attempt": 0, "outcome": "ok", "duration_ms": 671.0, "ts": "2025-09-08T04:35:37.775518Z"}
+{"type": "attempt", "corr_id": "3fe83baf-4f34-489d-a2bb-0fb1c4147f27", "attempt": 0, "outcome": "ok", "duration_ms": 1577.55, "ts": "2025-09-08T04:35:39.898372Z"}
+{"type": "attempt", "corr_id": "0e78ede9-d095-447d-b568-dcb78f85a2a3", "attempt": 0, "outcome": "ok", "duration_ms": 1553.8, "ts": "2025-09-08T04:35:41.993135Z"}
+{"type": "attempt", "corr_id": "316ac828-9b58-4d41-8bc2-f5c2944d8f9f", "attempt": 0, "outcome": "upstream_timeout", "ts": "2025-09-08T04:35:44.481517Z"}
+{"type": "attempt", "corr_id": "54703794-6694-4d15-aae7-1ee509167ffb", "attempt": 0, "outcome": "upstream_timeout", "ts": "2025-09-08T04:35:47.071286Z"}
+{"type": "attempt", "corr_id": "316ac828-9b58-4d41-8bc2-f5c2944d8f9f", "attempt": 1, "outcome": "ok", "duration_ms": 1260.62, "ts": "2025-09-08T04:35:48.333024Z"}
+{"type": "attempt", "corr_id": "eb8b3ad2-9dc6-4c4e-a730-8df0c27fab2f", "attempt": 0, "outcome": "upstream_timeout", "ts": "2025-09-08T04:35:50.272576Z"}
+{"type": "attempt", "corr_id": "54703794-6694-4d15-aae7-1ee509167ffb", "attempt": 1, "outcome": "ok", "duration_ms": 1034.46, "ts": "2025-09-08T04:35:51.309171Z"}
+{"type": "attempt", "corr_id": "efaf0801-b41a-41dd-833f-efe2f27132da", "attempt": 0, "outcome": "ok", "duration_ms": 1341.88, "ts": "2025-09-08T04:35:52.652467Z"}
+{"type": "attempt", "corr_id": "eb8b3ad2-9dc6-4c4e-a730-8df0c27fab2f", "attempt": 1, "outcome": "ok", "duration_ms": 1083.8, "ts": "2025-09-08T04:35:53.737849Z"}
+{"type": "attempt", "corr_id": "2befd936-348b-4fec-a2a0-ba435cbf4e5f", "attempt": 0, "outcome": "ok", "duration_ms": 1529.65, "ts": "2025-09-08T04:35:55.269121Z"}
+{"type": "attempt", "corr_id": "c23596bc-ca82-4303-9b7a-03cb3d186207", "attempt": 0, "outcome": "ok", "duration_ms": 1261.06, "ts": "2025-09-08T04:35:56.531207Z"}
+{"type": "attempt", "corr_id": "934c86d6-07de-4391-a1ec-6919d381028e", "attempt": 0, "outcome": "upstream_timeout", "ts": "2025-09-08T04:35:59.019334Z"}
+{"type": "attempt", "corr_id": "d050089a-b3c8-4a6e-873a-f9856c7f398a", "attempt": 0, "outcome": "ok", "duration_ms": 1076.82, "ts": "2025-09-08T04:36:00.710864Z"}
+{"type": "attempt", "corr_id": "934c86d6-07de-4391-a1ec-6919d381028e", "attempt": 1, "outcome": "ok", "duration_ms": 1814.16, "ts": "2025-09-08T04:36:02.836519Z"}
+{"type": "attempt", "corr_id": "489e4218-f261-4f83-a60d-693077223390", "attempt": 0, "outcome": "ok", "duration_ms": 1619.45, "ts": "2025-09-08T04:36:04.457249Z"}
+{"type": "attempt", "corr_id": "248214fc-8de6-4051-aab6-86ef41b682cf", "attempt": 0, "outcome": "ok", "duration_ms": 544.11, "ts": "2025-09-08T04:36:05.003081Z"}
+{"type": "attempt", "corr_id": "53011fe5-6f99-4509-9f91-c2db56e9483f", "attempt": 0, "outcome": "ok", "duration_ms": 1814.81, "ts": "2025-09-08T04:36:07.353629Z"}
+{"type": "attempt", "corr_id": "73df29df-9a44-4d87-ae2c-0e158f191f39", "attempt": 0, "outcome": "ok", "duration_ms": 1899.1, "ts": "2025-09-08T04:36:09.779153Z"}
+{"type": "attempt", "corr_id": "550b9f66-6f0a-49f3-bef6-a2594be3e7b6", "attempt": 0, "outcome": "ok", "duration_ms": 1378.69, "ts": "2025-09-08T04:36:11.698055Z"}
+{"type": "attempt", "corr_id": "362eef74-cff0-45f4-ba13-f0e8fe2317a2", "attempt": 0, "outcome": "ok", "duration_ms": 1630.49, "ts": "2025-09-08T04:36:13.873406Z"}
+{"type": "attempt", "corr_id": "491feb09-ed1f-4b25-841f-69c494350cb3", "attempt": 0, "outcome": "ok", "duration_ms": 836.72, "ts": "2025-09-08T04:36:15.250064Z"}
+{"type": "attempt", "corr_id": "20ded620-e47e-43cd-9b24-354a4e7dbf0e", "attempt": 0, "outcome": "ok", "duration_ms": 1051.69, "ts": "2025-09-08T04:36:16.842230Z"}
+{"type": "attempt", "corr_id": "e36c4a30-d353-4adf-96ee-04eaed529812", "attempt": 0, "outcome": "ok", "duration_ms": 1040.1, "ts": "2025-09-08T04:36:18.418536Z"}
+{"type": "attempt", "corr_id": "aff6df5b-547b-4288-bbd4-3be64e5d41bb", "attempt": 0, "outcome": "ok", "duration_ms": 643.34, "ts": "2025-09-08T04:36:19.603369Z"}
+{"type": "attempt", "corr_id": "4db39e92-c2bb-4e41-b0bc-9e55f3430008", "attempt": 0, "outcome": "ok", "duration_ms": 1650.75, "ts": "2025-09-08T04:36:21.798954Z"}
+{"type": "attempt", "corr_id": "8b6f60e1-32cb-4989-9313-31bcb5b40bc1", "attempt": 0, "outcome": "ok", "duration_ms": 1595.82, "ts": "2025-09-08T04:36:23.945228Z"}
+{"type": "attempt", "corr_id": "a9ca1979-6b06-4ee4-8d6e-1927baa38b0e", "attempt": 0, "outcome": "ok", "duration_ms": 908.7, "ts": "2025-09-08T04:36:25.410514Z"}
+{"type": "attempt", "corr_id": "22a2eea1-2946-4220-a870-7138db35ad84", "attempt": 0, "outcome": "ok", "duration_ms": 1426.83, "ts": "2025-09-08T04:36:27.375362Z"}
+{"type": "attempt", "corr_id": "20eb44dd-2444-471b-9cd7-315f9196dc71", "attempt": 0, "outcome": "ok", "duration_ms": 1290.72, "ts": "2025-09-08T04:36:29.213512Z"}
+{"type": "attempt", "corr_id": "e2666be4-a647-4a06-b9da-973c8a309ed6", "attempt": 0, "outcome": "ok", "duration_ms": 1345.23, "ts": "2025-09-08T04:36:31.083631Z"}
+{"type": "attempt", "corr_id": "fa2a3312-8f63-4159-bd76-3deae4a35536", "attempt": 0, "outcome": "ok", "duration_ms": 1732.81, "ts": "2025-09-08T04:36:33.353483Z"}
+{"type": "attempt", "corr_id": "8328c485-0d02-4dd4-b0c2-2b7377ed4472", "attempt": 0, "outcome": "upstream_timeout", "ts": "2025-09-08T04:36:35.825483Z"}
+{"type": "attempt", "corr_id": "4c2565eb-8274-4023-94cc-84e2c33dc200", "attempt": 0, "outcome": "ok", "duration_ms": 786.99, "ts": "2025-09-08T04:36:37.210695Z"}
+{"type": "attempt", "corr_id": "29896e6f-b277-40f9-a0c0-9d41ead5f49c", "attempt": 0, "outcome": "ok", "duration_ms": 1737.24, "ts": "2025-09-08T04:36:39.481221Z"}
+{"type": "attempt", "corr_id": "8328c485-0d02-4dd4-b0c2-2b7377ed4472", "attempt": 1, "outcome": "ok", "duration_ms": 1470.14, "ts": "2025-09-08T04:36:40.953082Z"}
+{"type": "attempt", "corr_id": "fdf22263-acf0-4869-8810-095d90a83a86", "attempt": 0, "outcome": "ok", "duration_ms": 1904.26, "ts": "2025-09-08T04:36:42.858341Z"}
+{"type": "attempt", "corr_id": "b1fb92be-f413-42cd-bab1-5389b49ac79e", "attempt": 0, "outcome": "ok", "duration_ms": 1826.16, "ts": "2025-09-08T04:36:44.685477Z"}
+{"type": "attempt", "corr_id": "7b677481-9271-491b-bebf-ad3d1a2cc323", "attempt": 0, "outcome": "ok", "duration_ms": 590.39, "ts": "2025-09-08T04:36:45.691718Z"}
+{"type": "attempt", "corr_id": "f6f78db3-7dce-4585-a369-adbec68d9a1e", "attempt": 0, "outcome": "ok", "duration_ms": 1220.49, "ts": "2025-09-08T04:36:47.450879Z"}
+{"type": "attempt", "corr_id": "c4118779-e969-4131-8272-b012c624f163", "attempt": 0, "outcome": "ok", "duration_ms": 1297.47, "ts": "2025-09-08T04:36:49.285544Z"}
+{"type": "attempt", "corr_id": "b1fba66f-aa51-453a-8320-98677ded6e57", "attempt": 0, "outcome": "ok", "duration_ms": 1534.88, "ts": "2025-09-08T04:36:51.356384Z"}
+{"type": "attempt", "corr_id": "47de3aac-e2ea-4c9f-82f8-870103e48a5f", "attempt": 0, "outcome": "ok", "duration_ms": 687.35, "ts": "2025-09-08T04:36:52.580543Z"}
+{"type": "attempt", "corr_id": "1bc846a3-dc0a-43c3-ae6a-fe492ef9f46a", "attempt": 0, "outcome": "ok", "duration_ms": 1406.48, "ts": "2025-09-08T04:36:54.527256Z"}
+{"type": "attempt", "corr_id": "b2250187-f7fe-425a-a1c9-db90908c23dc", "attempt": 0, "outcome": "ok", "duration_ms": 1269.5, "ts": "2025-09-08T04:36:56.338076Z"}
+{"type": "attempt", "corr_id": "bd1a026e-bd4c-4e1a-9afb-3fc490b5dac5", "attempt": 0, "outcome": "ok", "duration_ms": 1342.94, "ts": "2025-09-08T04:36:58.212567Z"}
+{"type": "attempt", "corr_id": "1fd27755-ffa8-482d-bd54-8618ad3cf6b2", "attempt": 0, "outcome": "ok", "duration_ms": 1562.1, "ts": "2025-09-08T04:37:00.313622Z"}
+{"type": "attempt", "corr_id": "0cc8a085-9121-41c6-a204-85dead53ca76", "attempt": 0, "outcome": "ok", "duration_ms": 1487.48, "ts": "2025-09-08T04:37:02.331765Z"}
+{"type": "attempt", "corr_id": "dfef0cfa-0ad9-4369-8cea-74f14c0868ce", "attempt": 0, "outcome": "ok", "duration_ms": 1672.94, "ts": "2025-09-08T04:37:04.530552Z"}
+{"type": "attempt", "corr_id": "6d5ecfbb-bbbd-4cc1-831d-318d484179b6", "attempt": 0, "outcome": "ok", "duration_ms": 1117.92, "ts": "2025-09-08T04:37:06.182901Z"}
+{"type": "attempt", "corr_id": "9ca84537-a38d-4aad-a1df-b16b1970e951", "attempt": 0, "outcome": "ok", "duration_ms": 1737.99, "ts": "2025-09-08T04:37:08.456777Z"}
+{"type": "attempt", "corr_id": "bef16ee1-ce05-4aae-be19-d5148543a0ad", "attempt": 0, "outcome": "ok", "duration_ms": 1254.42, "ts": "2025-09-08T04:37:10.242274Z"}
+{"type": "attempt", "corr_id": "dc4cf8ae-40fa-40db-8a28-5318ccfac40c", "attempt": 0, "outcome": "ok", "duration_ms": 1916.91, "ts": "2025-09-08T04:37:12.689191Z"}
+{"type": "attempt", "corr_id": "76cc3445-a708-4d4d-afdb-4a63d5429a43", "attempt": 0, "outcome": "ok", "duration_ms": 906.29, "ts": "2025-09-08T04:37:14.136998Z"}
+{"type": "attempt", "corr_id": "0232d7c7-1465-4d7d-8db8-e93fe531f91a", "attempt": 0, "outcome": "ok", "duration_ms": 1826.02, "ts": "2025-09-08T04:37:16.500106Z"}
+{"type": "attempt", "corr_id": "4dd64e3f-7431-4191-b528-0fbdfe8ad021", "attempt": 0, "outcome": "ok", "duration_ms": 1535.49, "ts": "2025-09-08T04:37:18.566492Z"}
+{"type": "attempt", "corr_id": "dcbf59a1-1264-430e-91cf-e63bee0026b4", "attempt": 0, "outcome": "ok", "duration_ms": 1514.58, "ts": "2025-09-08T04:37:20.613618Z"}
+{"type": "attempt", "corr_id": "d124a23e-4b97-4f32-b1a7-d18790ad2d10", "attempt": 0, "outcome": "ok", "duration_ms": 1432.33, "ts": "2025-09-08T04:37:22.571858Z"}
+{"type": "attempt", "corr_id": "55264f9a-ebfd-4dfa-9787-6e49504143a6", "attempt": 0, "outcome": "ok", "duration_ms": 1940.19, "ts": "2025-09-08T04:37:25.054287Z"}
+{"type": "attempt", "corr_id": "ecafd2c5-d4be-4d70-bdb6-fb9baad040b7", "attempt": 0, "outcome": "upstream_timeout", "ts": "2025-09-08T04:37:27.529986Z"}
+{"type": "attempt", "corr_id": "f885592f-4564-4c63-8335-3b56f20e0dc2", "attempt": 0, "outcome": "ok", "duration_ms": 1343.01, "ts": "2025-09-08T04:37:29.470078Z"}
+{"type": "attempt", "corr_id": "ecafd2c5-d4be-4d70-bdb6-fb9baad040b7", "attempt": 1, "outcome": "upstream_timeout", "ts": "2025-09-08T04:37:31.475847Z"}
+{"type": "attempt", "corr_id": "6d42cff8-36cf-485d-a93d-c5244e94a457", "attempt": 0, "outcome": "ok", "duration_ms": 1316.25, "ts": "2025-09-08T04:37:32.793370Z"}
+{"type": "attempt", "corr_id": "97dc3b6f-2c00-4d33-ab1d-987e39910a7c", "attempt": 0, "outcome": "upstream_timeout", "ts": "2025-09-08T04:37:34.767662Z"}
+{"type": "attempt", "corr_id": "ecafd2c5-d4be-4d70-bdb6-fb9baad040b7", "attempt": 2, "outcome": "ok", "duration_ms": 1469.46, "ts": "2025-09-08T04:37:36.238432Z"}
+{"type": "attempt", "corr_id": "ebfae64b-9866-45bb-8630-7a38ae90aaf8", "attempt": 0, "outcome": "ok", "duration_ms": 1081.87, "ts": "2025-09-08T04:37:37.321575Z"}
+{"type": "attempt", "corr_id": "97dc3b6f-2c00-4d33-ab1d-987e39910a7c", "attempt": 1, "outcome": "ok", "duration_ms": 607.58, "ts": "2025-09-08T04:37:37.930288Z"}
+{"type": "attempt", "corr_id": "72f0969a-6766-4e9a-b202-5c4c7f0dd4ac", "attempt": 0, "outcome": "ok", "duration_ms": 1571.1, "ts": "2025-09-08T04:37:39.502444Z"}
+{"type": "attempt", "corr_id": "38a695ec-759c-4cdd-b51c-0fe5b4fd0f27", "attempt": 0, "outcome": "ok", "duration_ms": 1137.06, "ts": "2025-09-08T04:37:41.171308Z"}
+{"type": "attempt", "corr_id": "9514de24-a58c-4171-8b0a-f2c7b26c3ca6", "attempt": 0, "outcome": "ok", "duration_ms": 1249.7, "ts": "2025-09-08T04:37:42.960059Z"}
+{"type": "attempt", "corr_id": "8feae6a5-8a40-489b-b82c-c4f074696e04", "attempt": 0, "outcome": "ok", "duration_ms": 1843.76, "ts": "2025-09-08T04:37:45.341045Z"}
+{"type": "attempt", "corr_id": "7cfc1164-2f12-40d5-ae8c-428aefb26142", "attempt": 0, "outcome": "ok", "duration_ms": 503.94, "ts": "2025-09-08T04:37:46.388798Z"}
